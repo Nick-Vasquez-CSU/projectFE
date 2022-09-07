@@ -1,6 +1,7 @@
 # projectFE
-Repository for updates to my personal rom hack of Fire Emblem: The Sacred Stones
 ![alt text](https://lh6.googleusercontent.com/CplklNpxDR4cVB0qio2Vh1ty_8F5GUUNk6-Wx8Euw9L8q-0HIqrcjreDgtDM26ejOIl11HIMjj9nIplurB9AcqWKEm64mWSALeJ4Q5kpJjhO9R6tnh3Wr6zh1EWwZcCA25gHX6ZOJJ1XsxpfKchbDl220worx3JasDMMzUugkxtazQJ0IH58C9Jo)
+
+Repository for updates to my personal rom hack of Fire Emblem: The Sacred Stones
 
 # Required Applications:
 #### NUPS https://www.dropbox.com/s/49vnoz6dvkn3ptu/NUPS.zip?dl=0
