@@ -2,9 +2,9 @@
 Repository for updates to my personal rom hack of Fire Emblem: The Sacred Stones
 
 # Required Applications:
-## NUPS https://www.dropbox.com/s/49vnoz6dvkn3ptu/NUPS.zip?dl=0
-## Gameboy Advanced Emulator: [https://www.dropbox.com/s/49vnoz6dvkn3ptu/NUPS.zip?dl=0](https://mgba.io/)
-## A ROM of Fire Emblem: The Sacred Stone is required. I cannot assist in the aquisition of this product.
+#### NUPS https://www.dropbox.com/s/49vnoz6dvkn3ptu/NUPS.zip?dl=0
+#### Gameboy Advanced Emulator: [https://www.dropbox.com/s/49vnoz6dvkn3ptu/NUPS.zip?dl=0](https://mgba.io/)
+#### A ROM of Fire Emblem: The Sacred Stone is required. I cannot assist in the aquisition of this product.
 
 # How to Play the Hack
 * Download the .ups patch from the repo
