@@ -16,4 +16,4 @@ Repository for updates to my personal rom hack of Fire Emblem: The Sacred Stones
 * If the file failed to patch, your ROM may be corrupted
 * Open your gba emulator and under file, select "Open ROM/GBA"
 * Select the outputted .gba file that has the UPS patch applied to it
-* Enjoy
+* Enjoy!
